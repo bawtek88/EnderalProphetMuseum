@@ -1,0 +1,19 @@
+# Mod Organizer 2 metadata
+meta.ini
+
+# Creation Kit and xEdit working files
+*.bak
+*.tmp
+*.log
+SSEEdit Backups/
+SSEEdit Cache/
+
+# Save games and local editor configuration
+*.ess
+*.skse
+.vscode/
+.idea/
+
+# OS-generated files
+Thumbs.db
+Desktop.ini
